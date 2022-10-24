@@ -5,5 +5,7 @@ The project focuses on the analysis of NY taxi trends throughout the years and d
 Contributors: 
 
 Peter Anthony Wright
+
 Carlos Marcos Torrejon
+
 Santiago Gutiérrez Orta

@@ -21,8 +21,8 @@ client = Socrata("data.cityofnewyork.us", None)
 # Example authenticated client (needed for non-public datasets):
 client = Socrata("data.cityofnewyork.us",
                  "Hi16i3SK4y2UNiONqpKz4IROh",
-                 username="mtcarlos98@gmail.com",
-                 password="Azeroth98",
+                 username="*************",
+                 password="*************",
                  timeout=12000)
 
 # First 2000 results, returned as JSON from API / converted to Python list of
